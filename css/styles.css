@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "";
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 .u-desktop {
@@ -186,6 +186,10 @@ select::-ms-expand {
     padding-right: 25px;
     padding-left: 25px;
   }
+}
+
+.c-en {
+  font-family: "Montserrat", sans-serif;
 }
 
 .c-test {
